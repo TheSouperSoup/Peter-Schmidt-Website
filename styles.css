@@ -63,3 +63,9 @@ h1 {
     background-attachment: absolute;
     z-index: -2;
 } 
+
+/* RESUME PAGE*/
+
+.resumepage {
+    scrollbar-width: none;
+}
