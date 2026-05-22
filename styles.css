@@ -69,3 +69,37 @@ h1 {
 .resumepage {
     scrollbar-width: none;
 }
+
+/* INTERESTS PAGE */
+
+.InterestsPage {
+    background-color: rgb(22, 22, 22);
+}
+
+.RockClimbingSection h1 {
+    font-size: 3rem;
+    margin: auto 1rem;
+    color: bisque;
+    display: block;
+    width: 100%;
+    background-color: black;
+}
+
+.IntElCap {
+    background-image: url("Images/ElCapitan.jpg");
+    background-size: cover;
+}
+
+.IntElCap h2 {
+    font-size: 2rem;
+    margin: 1rem;
+    display: block;
+    width: 100%;
+    color: bisque;
+    background-color: rgb(22, 22, 22);
+}
+
+.IntElCap p {
+    background-color: rgb(22, 22, 22, 50);
+    font-size: 1rem;
+}
