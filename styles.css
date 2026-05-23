@@ -100,9 +100,11 @@
 
 .IntElCap p {
     background-color: rgb(22, 22, 22, 50);
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: bisque;
     top: 100vh;
     padding: 1rem;
     display: inline-block;
+    width: 30%;
+    overflow: visible;
 }
