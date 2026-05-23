@@ -93,6 +93,7 @@
     font-size: 2rem;
     margin: auto 1rem;
     display: block;
+    padding: 1rem;
     width: 100%;
     color: bisque;
     background-color: rgb(22, 22, 22);
@@ -103,4 +104,6 @@
     font-size: 1rem;
     color: bisque;
     top: 100vh;
+    text-align: right;
+    padding: 1rem;
 }
