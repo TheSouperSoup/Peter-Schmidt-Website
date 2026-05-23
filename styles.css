@@ -82,6 +82,10 @@
 .IntElCap {
     background-image: url("Images/ElCapitan.jpg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: absolute;
+    z-index: -2;
 }
 
 .IntElCap h2 {
