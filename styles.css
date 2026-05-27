@@ -124,6 +124,7 @@
     background-image: url("Images/MotorcyclesWelcome.jpg");
     background-position: center;
     background-size: cover;
+    height: fit-content;
     z-index: -2;
 }
 
