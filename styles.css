@@ -117,12 +117,20 @@
     font-weight: bolder;
     color: bisque;
     font-size: 24pt;
+    background-color: black;
 }
 
 .MotorcyclesWelcome {
+    background-image: url(Images/MotorcyclesWelcome.jpg);
+    background-size: cover;
+    z-index: -2;
+}
+
+.MotorcyclesWelcome ul {
     text-align: center;
     color: bisque;
     font-size: 16pt;
     list-style: none;
     text-decoration: none;
+    z-index: 1;
 }
