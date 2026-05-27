@@ -132,10 +132,27 @@
     text-align: center;
     list-style: none;
     z-index: 1;
+    padding: 1rem;
 }
 
 .MotorcyclesWelcome a {
     color: bisque;
     text-decoration: none;
     font-size: 16pt;
+}
+
+.MotorcyclesPage h2 {
+    font-size: 4vh;
+    color: bisque;
+    text-align: left;
+    background-color: black;
+    padding: 0.5rem;
+    margin: auto 1rem;
+}
+
+.M1000rr {
+    background-image: url("Images/M1000rrMotoPage.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
 }
