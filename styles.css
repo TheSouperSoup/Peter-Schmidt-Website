@@ -121,7 +121,7 @@
 }
 
 .MotorcyclesWelcome {
-    background-image: url(Images/MotorcyclesWelcome.jpg);
+    background-image: url("Images/MotorcyclesWelcome.jpg");
     background-position: center;
     background-size: cover;
     z-index: -2;
