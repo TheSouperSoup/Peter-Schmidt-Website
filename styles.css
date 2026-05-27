@@ -128,9 +128,15 @@
 
 .MotorcyclesWelcome ul {
     text-align: center;
-    color: bisque;
-    font-size: 16pt;
-    list-style: none;
-    text-decoration: none;
     z-index: 1;
+}
+
+.MotorcyclesWelcome ul li {
+    list-style: none;
+}
+
+.MotorcyclesWelcome ul li {
+    color: bisque;
+    text-decoration: none;
+    font-size: 16pt;
 }
