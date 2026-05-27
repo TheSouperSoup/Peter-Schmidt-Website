@@ -130,12 +130,8 @@
 
 .MotorcyclesWelcome ul {
     text-align: center;
-    display: flex;
-    z-index: 1;
-}
-
-.MotorcyclesWelcome ul li {
     list-style: none;
+    z-index: 1;
 }
 
 .MotorcyclesWelcome ul li {
