@@ -108,3 +108,21 @@
     width: 30%;
     overflow: visible;
 }
+
+/* Motorcycles Page */
+
+.MotorcyclesPage h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bolder;
+    color: bisque;
+    font-size: 24pt;
+}
+
+.MotorcyclesWelcome {
+    text-align: center;
+    color: bisque;
+    font-size: 16pt;
+    list-style: none;
+    text-decoration: none;
+}
