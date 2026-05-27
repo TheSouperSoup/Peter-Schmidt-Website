@@ -130,6 +130,7 @@
 
 .MotorcyclesWelcome ul {
     text-align: center;
+    display: flex;
     z-index: 1;
 }
 
