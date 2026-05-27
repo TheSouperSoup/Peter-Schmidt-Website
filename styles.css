@@ -134,7 +134,7 @@
     z-index: 1;
 }
 
-.MotorcyclesWelcome ul li ld a {
+.MotorcyclesWelcome a {
     color: bisque;
     text-decoration: none;
     font-size: 16pt;
