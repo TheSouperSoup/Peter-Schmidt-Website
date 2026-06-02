@@ -161,7 +161,7 @@
     padding: 2rem;
     padding-bottom: 5px;
     display: inline-block;
-    font-size: 16pt;
+    font-size: 2rem;
 }
 
 .MotorcyclesWelcome ul li a::after {
@@ -177,12 +177,6 @@
 
 .MotorcyclesWelcome ul li a:hover::after {
     width: 100%; /* Expand to full width */
-}
-
-.MotorcyclesWelcome a {
-    color: bisque;
-    text-decoration: none;
-    font-size: 16pt;
 }
 
 .MotorcyclesPage h2 {
