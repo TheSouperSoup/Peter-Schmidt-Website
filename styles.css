@@ -138,6 +138,7 @@
     top: 5rem;
     display: flex;
     margin: 0;
+    scroll-behavior: smooth;
 }
 
 .MotorcyclesWelcome ul {
