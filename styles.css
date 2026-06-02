@@ -135,10 +135,13 @@
     height: 100vh;
     z-index: -2;
     top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
 }
 
 .MotorcyclesWelcome ul {
-    align-content: center;
     list-style: none;
     display: flex;
     z-index: 1;
@@ -187,10 +190,9 @@
     color: bisque;
     text-align: left;
     background-color: rgb(22, 22, 22);
-    padding: 1rem;
+    padding: 2rem;
     margin: 0;
     left: 0;
-    top: 1rem;
 }
 
 .M1000rr {
