@@ -163,7 +163,7 @@
     background-image: url("Images/M1000rrMotoPage.jpg");
     background-position: center;
     background-size: cover;
-    height: 95vh;
-    top: auto;
+    height: 100vh;
+    top: 5rem;
     
 }
