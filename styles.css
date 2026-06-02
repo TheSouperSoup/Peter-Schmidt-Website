@@ -202,5 +202,50 @@
 }
 
 .Zx6r {
-    
+    background-image: url("Images/kawasaki-ninja-zx-6r-5120x3190-14544.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cbr600rr {
+    background-image: url("Images/cbr600rr.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.Ninja400 {
+    background-image: url("Images/ninja400.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.H2r {
+    background-image: url("Images/h2r.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.Zx10r {
+    background-image: url("Images/wp11376371-ninja-zx-10r-2022-wallpapers.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.R1 {
+    background-image: url("Images/R1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.HondaGrom {
+    background-image: url("Images/wp2211481-honda-grom-wallpapers.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
 }
