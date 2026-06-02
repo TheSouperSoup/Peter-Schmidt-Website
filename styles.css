@@ -16,8 +16,9 @@
     align-items: center;
     overflow: hidden;
     border: none;
-    position: sticky;
+    position: fixed;
     top: 0;
+    left: 0;
     z-index: 1000;
     width: 100%;
     overflow: hidden;
@@ -156,4 +157,5 @@
     background-size: cover;
     height: 95vh;
     top: auto;
+    
 }
