@@ -204,7 +204,7 @@
 .Zx6r {
     background-image: url("Images/kawasaki-ninja-zx-6r-5120x3190-14544.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     height: 100vh;
 }
 
