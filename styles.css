@@ -139,11 +139,40 @@
 
 .MotorcyclesWelcome ul {
     text-align: center;
-    vertical-align: middle;
     list-style: none;
     display: flex;
     z-index: 1;
-    padding: 1rem;
+    padding: 0;
+    margin-top: 75%;
+    margin-left: 0;
+}
+
+.MotorcyclesWelcome ul li {
+    position: relative;
+    margin-right: 20px;
+}
+
+.MotorcyclesWelcome ul li a {
+    text-decoration: none;
+    color: bisque;
+    padding-bottom: 5px;
+    display: inline-block;
+    font-size: 16pt;
+}
+
+.MotorcyclesWelcome ul li a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0; /* Start with 0 width */
+    height: 2px; /* Thickness of the line */
+    background-color: bisque; /* Underline color */
+    transition: width 0.3s ease; /* Smooth animation */
+}
+
+.MotorcyclesWelcome ul li a:hover::after {
+    width: 100%; /* Expand to full width */
 }
 
 .MotorcyclesWelcome a {
