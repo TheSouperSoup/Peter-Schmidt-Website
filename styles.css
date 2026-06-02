@@ -100,7 +100,7 @@
 }
 
 .IntElCap p {
-    background-color: rgb(22, 22, 22, 50);
+    background-color: rgb(22, 22, 22);
     font-size: 1.5rem;
     color: bisque;
     top: 100vh;
@@ -111,6 +111,10 @@
 }
 
 /* Motorcycles Page */
+
+.MotorcyclesPage {
+    background-color: rgb(22, 22, 22);
+}
 
 .MotorcyclesPage h1 {
     text-align: center;
